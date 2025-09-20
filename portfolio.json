@@ -7,7 +7,7 @@
     "phone": "319-594-1445",
     "location": "Denver, Colorado"
   },
-  "summary": "Data analytics and engineering background. I have been more recently delving into web development and cloud as an overall tech enthusiast, professional, and hobbyist. I am also developing analytical acumen, exploring FRM and CIPM certifications.",
+  "summary": "Data analytics and engineering background. I have been more recently delving into web development and cloud as an overall tech enthusiast, professional, and hobbyist. I am also developing analytical acumen, exploring FRM, CMA, and CIPM certifications.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
@@ -28,10 +28,10 @@
       "url": "https://www.massmutual.com/",
       "start_date": "March 2022",
       "end_date": "Present",
-      "summary": "Short summary about present job and what the position entails",
+      "summary": "Hone analytical skills from engineering to end-user reporting. Challenge self by assuming larger, sole analytic responsibilities of investment organization. ",
       "highlights": [
         "Engineer analytics efforts to modernize an investment organization’s manual reporting systems to automated systems",
-        "Report for a large investment organization through Python scripting, database administration, SQL, and Tableau",
+        "Report for a large investment organization through Python scripting, database administration, SQL, Tableau, and GitHub",
         "Investment management support of Private Wealth & Trust, largely investment and data overlapping work",
         "Project management of investment analytics for Private Wealth & Trust, coordinating with business and technical stakeholders",
         "Developed and directed personal and others’ eclectic skills for key Private Wealth & Trust deliverables"
@@ -43,7 +43,7 @@
       "url": "https://investor.vanguard.com/",
       "start_date": "August 2020",
       "end_date": "March 2022",
-      "summary": "Develop proficiency",
+      "summary": "Acclimate to big data, technologies, and analyst responsibilities.",
       "highlights": [
         "Query, transform, and analyze retail data, primarily utilizing AWS S3 and EMR, SQL, and Python",
         "Report to internal stakeholders on reports and data products through tabular data and visualization software (Tableau)",
@@ -51,6 +51,20 @@
         "Collaborate on a Scrum team, managing numerous reports and data products",
         "Oversee 15 Tableau reports, Tableau Server, new report builds, retail data warehouse data, and new technology adoption"
 
+      ]
+    },
+        {
+      "company": "The Vanguard Group - Client Services and Operations",
+      "position": "Operations Specialist",
+      "url": "https://investor.vanguard.com/",
+      "start_date": "November 2016",
+      "end_date": "August 2020",
+      "summary": "Develop as a financial professional, understanding their offerings, services, and products. Work towards goal of being a formal analyst by integrating analyst work.",
+      "highlights": [
+        "Service clerical and financial client requests, ranging in request, account type, and client segment complexity",
+        "Create policies and procedures as a department Subject Matter Expert for various financial processing functions",
+        "Developed data analytics tools, including macros, databases, and data visualizations, primarily in Python, SQL, and Tableau",
+        "Greenlit retail operations’ Value Stream Mapping and Straight-Through Processing initiatives through analysis and reporting"
       ]
     }
   ],
