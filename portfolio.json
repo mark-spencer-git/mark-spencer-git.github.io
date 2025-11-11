@@ -31,10 +31,10 @@
       "summary": "Hone analytical skills from engineering to end-user reporting. Challenge self by assuming larger, sole analytic responsibilities of investment organization. ",
       "highlights": [
         "Engineer analytics efforts to modernize an investment organization’s manual reporting systems to automated systems",
-        "Report for a large investment organization through Python scripting, database administration, SQL, Tableau, and GitHub",
-        "Investment management support of Private Wealth & Trust, largely investment and data overlapping work",
+        "Package and migrate Excel data processing to Python GitHub repositories from ELT, data processing, and Flask code",
+        "Investment management of $4B organization through Python scripting, database administration, SQL, and Tableau",
         "Project management of investment analytics for Private Wealth & Trust, coordinating with business and technical stakeholders",
-        "Developed and directed personal and others’ eclectic skills for key Private Wealth & Trust deliverables"
+        "Project highlights include advisor Proposal Tool automation, Rebalance Tool Flask app for portfolio allocations, and ELT code"
       ]
     },
     {
@@ -132,6 +132,21 @@
     {
       "name": "SQL",
       "proficiency": 80,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "DBA",
+      "proficiency": 80,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "Flask",
+      "proficiency": 75,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "AWS",
+      "proficiency": 50,
       "proficiency_label": "Proficiency Level"
     }
   ],
